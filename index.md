@@ -17,7 +17,7 @@ My research programme, **<i>lifespan pragmatics</i>**, addresses questions at th
 
 - **[June, 2025]** Upcoming poster presentation at the <a href="https://www.bcbl.eu/events/isb15/en/"> 15th International Symposium on Bilingualism (ISB15)</a> 
 - **[May, 2025]** Invited speaker at the symposium on Pragmatics and Communication in Aging + accepted talk on Social Cognition and Interactions at the <a href="https://eucas2025.unipv.it/">EUCAS 8th International Conference on Aging & Cognition</a>
-- **[April, 2025]** Invited speaker at the <a href="https://www.hf.uio.no/iln/">Institutt for lingvistiske og nordiske studier (ILN)</a> monthly meeting
+- **[April, 2025]** Invited speaker at <a href="https://www.hf.uio.no/iln/">Institutt for lingvistiske og nordiske studier (ILN)</a>
 
 
 
