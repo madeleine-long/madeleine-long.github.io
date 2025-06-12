@@ -15,12 +15,9 @@ My research programme, **<i>lifespan pragmatics</i>**, addresses questions at th
 
 ## News
 
-- **[October 24, 2024]** New paper published in <a href="https://direct.mit.edu/opmi"> Open Mind</a> (<a href="https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00165/124958/Perceptual-Semantic-and-Pragmatic-Factors-Affect">Link</a>)
-- **[September 26, 2024]** Upcoming poster presentations at the British Society of Gerontology (BSG) Scotland: The Future of Ageing Research in Scotland event
-- **[September 5-7, 2024]** Poster presentations at AMLaP <a href="https://amlap2024.ed.ac.uk/"> (<a href="https://virtual.oxfordabstracts.com/#/event/31397/submission/382">Abstract 1</a>), (<a href="https://virtual.oxfordabstracts.com/#/event/31397/submission/409">Abstract 2</a>), (<a href="https://virtual.oxfordabstracts.com/#/event/31397/submission/223">Abstract 3</a>)
-- **[September 2, 2024]** Started new position as the PI of a four-year FRIPRO project funded by the Research Council of Norway
-- **[May, 2024]** New articles published in <a href="https://escholarship.org/uc/cognitivesciencesociety"> Proceedings of the Annual Meeting of the Cognitive Science Society</a> (<a href="https://escholarship.org/uc/item/58d3b3vv)">Article 1</a>) (<a href="https://escholarship.org/uc/item/6p44s5dv)">Article 2</a>)
-- **[March, 2024]** New paper published in <a href="https://www.apa.org/pubs/journals/dev"> Developmental Psychology</a> (<a href="https://psycnet.apa.org/record/2024-59698-002">Link</a>) 
+- **[June, 2025]** Upcoming poster presentation at the <a href="https://www.bcbl.eu/events/isb15/en/"> 15th International Symposium on Bilingualism (ISB15)</a> 
+- **[May, 2024]** Invited speaker at the symposium on Pragmatics and Communication in Aging + accepted talk on Social Cognition and Interactions at the <a href="https://eucas2025.unipv.it/">EUCAS 8th International Conference on Aging & Cognition</a>
+- **[April, 2025]** Invited speaker at the <a href="https://www.hf.uio.no/iln/">Institutt for lingvistiske og nordiske studier (ILN) monthly meeting
 
 
 
