@@ -15,7 +15,7 @@ My research programme, **<i>lifespan pragmatics</i>**, addresses questions at th
 
 ## News
 
-- **[August, 2025]** New <a href="https://www.sciencedirect.com/science/article/pii/S001002772500229X">paper</a> published in <a href="[https://eucas2025.unipv.it](https://www.sciencedirect.com/journal/cognition)/">Cognition</a>
+- **[August, 2025]** New <a href="https://www.sciencedirect.com/science/article/pii/S001002772500229X">paper</a> published in <a href="https://www.sciencedirect.com/journal/cognition)/">Cognition</a>
 - **[June, 2025]** Poster presented at the <a href="https://www.bcbl.eu/events/isb15/en/"> 15th International Symposium on Bilingualism (ISB15)</a> 
 - **[May, 2025]** Invited symposium speaker on Pragmatics and Communication in Ageing + accepted talk on Social Cognition at the <a href="https://eucas2025.unipv.it/">8th International Conference on Aging & Cognition</a>
 - **[April, 2025]** Invited speaker at <a href="https://www.hf.uio.no/iln/">Institutt for lingvistiske og nordiske studier (ILN)</a>
