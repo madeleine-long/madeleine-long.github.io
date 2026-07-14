@@ -15,8 +15,8 @@ My research programme, **<i>lifespan pragmatics</i>**, addresses questions at th
 
 ## News
 
+- **[May, 2026]** Currently on maternity leave
 - **[September, 2026]** Upcoming poster presentations at the <a href="https://xpragit2026.weebly.com/"> The Experimental Pragmatics Conference in Italy (XPRAG.it)</a>
-- **[May, 2026]** I am currently on maternity leave
 
 
 
