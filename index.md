@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am the PI of a four-year FRIPRO project at the <a href="https://www.hf.uio.no/iln/english/"> University of Oslo</a> and a Marie Skłodowska-Curie postdoctoral research fellow at the <a href="https://www.ed.ac.uk/ppls">University of Edinburgh</a> working with <a href="https://www.ed.ac.uk/profile/sarah-e-macpherson">Sarah MacPherson</a>.
+I am the PI of a four-year FRIPRO project at the <a href="https://www.hf.uio.no/iln/english/"> University of Oslo</a> and a Marie Skłodowska-Curie postdoctoral research fellow at the <a href="https://www.ed.ac.uk/ppls">University of Edinburgh</a> working with <a href="https://www.ed.ac.uk/profile/sarah-e-macpherson">Sarah MacPherson</a>. Note: I am currently on maternity leave.
 
 Previously, I was a postdoc at the <a href="https://www.mpi.nl">Max Planck Institute for Psycholinguistics</a> (examining multimodal communication in interactive settings using portable eye-tracking with <a href="https://www.mpi.nl/people/rubio-fernandez-paula">Paula Rubio-Fernández</a> and <a href="https://www.mpi.nl/people/ozyurek-asli">Aslı Özyürek</a>) and a postdoc at the <a href="https://www.uio.no/english/">University of Oslo</a> (exploring referential communication across the lifespan, across clinical and non-clinical populations, and cross-linguistically with <a href="https://www.mpi.nl/people/rubio-fernandez-paula">Paula Rubio-Fernández</a> and <a href="http://www.lel.ed.ac.uk/~hrohde/">Hannah Rohde</a>).
 
@@ -15,10 +15,7 @@ My research programme, **<i>lifespan pragmatics</i>**, addresses questions at th
 
 ## News
 
-- **[August, 2025]** New <a href="https://www.sciencedirect.com/science/article/pii/S001002772500229X">paper</a> published in Cognition
-- **[June, 2025]** Poster presented at the <a href="https://www.bcbl.eu/events/isb15/en/"> 15th International Symposium on Bilingualism (ISB15)</a> 
-- **[May, 2025]** Invited symposium speaker on Pragmatics and Communication in Ageing + accepted talk on Social Cognition at the <a href="https://eucas2025.unipv.it/">8th International Conference on Aging & Cognition</a>
-- **[April, 2025]** Invited speaker at <a href="https://www.hf.uio.no/iln/">Institutt for lingvistiske og nordiske studier (ILN)</a>
+- **[September, 2026]** Upcoming poster presentations at the <a href="https://xpragit2026.weebly.com/"> The Experimental Pragmatics Conference in Italy (XPRAG.it)</a> 
 
 
 
