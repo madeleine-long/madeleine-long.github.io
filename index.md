@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am the PI of a four-year FRIPRO project at the <a href="https://www.hf.uio.no/iln/english/"> University of Oslo</a> and a Marie Skłodowska-Curie postdoctoral research fellow at the <a href="https://www.ed.ac.uk/ppls">University of Edinburgh</a> working with <a href="https://www.ed.ac.uk/profile/sarah-e-macpherson">Sarah MacPherson</a>. Note: I am currently on maternity leave.
+I am the PI of a four-year FRIPRO project at the <a href="https://www.hf.uio.no/iln/english/"> University of Oslo</a> and a Marie Skłodowska-Curie postdoctoral research fellow at the <a href="https://www.ed.ac.uk/ppls">University of Edinburgh</a> working with <a href="https://www.ed.ac.uk/profile/sarah-e-macpherson">Sarah MacPherson</a>. Currently, I am on maternity leave.
 
 Previously, I was a postdoc at the <a href="https://www.mpi.nl">Max Planck Institute for Psycholinguistics</a> (examining multimodal communication in interactive settings using portable eye-tracking with <a href="https://www.mpi.nl/people/rubio-fernandez-paula">Paula Rubio-Fernández</a> and <a href="https://www.mpi.nl/people/ozyurek-asli">Aslı Özyürek</a>) and a postdoc at the <a href="https://www.uio.no/english/">University of Oslo</a> (exploring referential communication across the lifespan, across clinical and non-clinical populations, and cross-linguistically with <a href="https://www.mpi.nl/people/rubio-fernandez-paula">Paula Rubio-Fernández</a> and <a href="http://www.lel.ed.ac.uk/~hrohde/">Hannah Rohde</a>).
 
